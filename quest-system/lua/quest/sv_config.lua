@@ -1,0 +1,16 @@
+TTTQuests.Config = {}
+
+TTTQuests.Config.MySQL = {}
+TTTQuests.Config.MySQL.Enabled 	= true 				// If you want to use MySQL just turn it to true...
+TTTQuests.Config.MySQL.IP 		= "127.0.0.1" 	// change IP...
+TTTQuests.Config.MySQL.UserName = "questsystem" 			// user name...
+TTTQuests.Config.MySQL.Password = "password"			// password...
+TTTQuests.Config.MySQL.Database = "questsystem"		// create database with that name...
+TTTQuests.Config.MySQL.Port 	= 3306
+// Make sure you fill it out correctly or your server will freeze in waiting of response
+
+TTTQuests.Config.QuestsDeadline = 7 // In days
+TTTQuests.Config.MaxQuests 		= 6
+TTTQuests.Config.MinPlayers 	= 5
+
+TTTQuests.Log("Config loaded!", COLOR_GREEN)
