@@ -10,4 +10,4 @@ Just Drag´nDrop the Folder into your Addons directory.<br>
 Config: quest-system\lua\quest\sv_config.lua<br>
 Dont forget to Upload the "Materials" Folder to your FastDL
 
-https://i.imgur.com/oXdaf4n.png
+![image](https://i.imgur.com/oXdaf4n.png)
