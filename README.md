@@ -6,9 +6,9 @@ Editing and making new Quests is just simple. Also editing to get it work with D
 
 Installation:<br>
 
-Just Drag´nDrop the Folder into your Addons directory.<br>
+Just Drag´nDrop the Folder into your Addons directory.<br><br>
 Goto: pointshop2\lua\ps2\client\tabs\inventory_tab <br>
-Replace your cl_0_dpointshopinventorytab.lua with mine cl_0_dpointshopinventorytab.lua (uploaded to the branch) <br>
+Replace your cl_0_dpointshopinventorytab.lua with mine cl_0_dpointshopinventorytab.lua (uploaded to the branch) <br><br>
 Config: quest-system\lua\quest\sv_config.lua<br>
 Dont forget to Upload the "Materials" Folder to your FastDL
 
